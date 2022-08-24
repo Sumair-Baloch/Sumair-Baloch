@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumair-Baloch
-- 👀 I’m interested in c++
+- 👀 I’m interested in c++ coding
 - 🌱 I’m currently learning c++ language
 
 <!---
